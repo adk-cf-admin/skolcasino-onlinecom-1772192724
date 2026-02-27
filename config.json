@@ -1,0 +1,216 @@
+{
+    "globalSections": {
+        "styles": {
+            "bg": "#143D48",
+            "lang-select-color": "#222829",
+            "bg-light": "#143D48",
+            "welcome-bonus-bg": "#143D48",
+            "top-games-hover-fg": "#ffffff",
+            "main-bg": "#246f82",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#0b2228",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#fb333d",
+            "yellow": "#287b91",
+            "yellow-button": "#7AAC22",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#143D48",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#ffffff",
+            "providers-back": "#143D48",
+            "faq-label": "#143D48",
+            "bg-footer": "#143D48",
+            "copyright": "#e7e7d5",
+            "starColor": "#7AAC22",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            }
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3657"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3658",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Skol Casino Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3659",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Skol Casino"
+        }
+    },
+    "pages": [
+        {
+            "id": "en-ca-en-CA",
+            "path": "\/",
+            "name": "Английский",
+            "languageCode": "en",
+            "regionCode": "CA",
+            "isDefault": true,
+            "sections": {
+                "seo": {
+                    "name": "Skol Casino",
+                    "title": "Skol Casino — Best Online Casino Canada | C$1300 Bonus",
+                    "description": "Play at Skol Casino Canada with 2500+ licensed games, live dealers & C$1300 welcome bonus + 250 free spins. Safe, fast CAD payouts. Join now!",
+                    "canonical": "skolcasino-online.com",
+                    "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3660",
+                    "ogImageWidth": 1200,
+                    "ogImageHeight": 630,
+                    "twitterSite": "skolcasino-online.com",
+                    "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3661"
+                },
+                "hero": {
+                    "title": "Canada's Premier Online Casino Platform",
+                    "textDesktop": "Exclusive welcome offer of",
+                    "textMobile": "Exclusive welcome bonus of",
+                    "playGame": "Play game",
+                    "claimBonus": "Claim Bonus",
+                    "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3662",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": -5,
+                    "imageXModifier": 0,
+                    "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3663",
+                    "mobileImageSizeModifier": -5,
+                    "mobileImageYModifier": 2,
+                    "mobileImageXModifier": 0
+                },
+                "topCasino": {
+                    "topCasinoButtonText": "Claim Bonus",
+                    "title": "Top Casinos",
+                    "allCasino": "All Casino",
+                    "welcomeBonusText": "Welcome bonus"
+                },
+                "bonusDetails": {
+                    "title": "Bonus Details",
+                    "getBonusButtonText": "Get Bonus",
+                    "maximumAmountText": "Maximum amount",
+                    "wagerText": "Wager",
+                    "bonusCodeText": "Bonus Code",
+                    "casino": "Casino",
+                    "bonuses": "Bonuses",
+                    "rate": "Rate",
+                    "freeSpins": "Free Spins",
+                    "moreInfo": "More Info",
+                    "get": "Get",
+                    "refresh": "Refresh"
+                },
+                "advantages": {
+                    "title": "Advantages",
+                    "advantagesBeforeText": "Looking for a trusted online casino in Canada? We operate under Curaçao eGaming license with RNG-certified games, instant CAD deposits, and 24\/7 English support. Here's what makes us the top choice for Canadian players:\n",
+                    "items": [
+                        "Curaçao eGaming licensed with eCOGRA-certified fair play RNG",
+                        "2500+ games from Evolution Gaming, Pragmatic Play, NetEnt & Microgaming",
+                        "C$1300 welcome bonus + 250 free spins across first 5 deposits",
+                        "Instant CAD deposits via Visa, Mastercard, Skrill, Neteller & Interac",
+                        "24\/7 customer support in English via live chat and email",
+                        "SSL 256-bit encryption securing 100% of Canadian player transactions"
+                    ],
+                    "advantagesAfterText": "Join over 100,000 Canadian players enjoying certified fair gaming at Skol Casino. Our dedicated English-speaking support team is available 24\/7\/365 to assist with any question.\n",
+                    "knowMore": "Know more",
+                    "appTitle": "Skol Casino App",
+                    "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3664",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": 0,
+                    "imageXModifier": 0,
+                    "mobileAlt": "Skol Casino App",
+                    "mobileGooglePlayImageTitle": "Skol Casino App",
+                    "mobileIosImageTitle": "Skol Casino App"
+                },
+                "games": {
+                    "playNowText": "Play now",
+                    "title": "Popular Games",
+                    "allGames": "All Games"
+                },
+                "about": {
+                    "history": {
+                        "title": "About Skol Casino Canada",
+                        "description1": "We are a trusted online casino proudly serving Canadian players with premium gaming entertainment. Licensed and certified, we offer 2500+ games from top-tier providers with fast CAD payouts and dedicated support.\n",
+                        "items": [
+                            "Launched as a Canada-focused online gaming platform",
+                            "Expanded library to 2500+ certified slot and table games",
+                            "Live casino partnership with Evolution Gaming & Pragmatic Play",
+                            "Achieved Curaçao eGaming licence and eCOGRA fair play certification"
+                        ],
+                        "description2": "We operate under Curaçao eGaming license with full eCOGRA fair play certification. Our platform uses SSL 256-bit encryption protecting all Canadian player transactions and personal data at all times.\n",
+                        "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3665",
+                        "imageSizeModifier": 0,
+                        "imageYModifier": 0,
+                        "imageXModifier": 0,
+                        "imageAlt": "History",
+                        "description3": "We keep expanding our game portfolio for Canadian players with new providers and exclusive titles monthly. Our responsible gaming tools and 24\/7 support make us Canada's most trusted choice. Join us today!\n"
+                    }
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "Complete Game Portfolio for Canadian Players",
+                        "description": "<h2>Complete Game Portfolio for Canadian Players<\/h2>\n\n<p>At Skol Casino, we proudly offer Canadian players access to over 2,500 premium, certified games spanning every genre of online gambling entertainment. Our carefully curated gaming library draws from 40+ world-class software providers including Evolution Gaming, Pragmatic Play, NetEnt, Microgaming, and Quickspin — ensuring variety, quality, and fairness on every spin, hand, or roll. All games on our platform are RNG-tested and carry independent certification, guaranteeing that every Canadian player enjoys transparent, fair outcomes. Whether you are chasing a life-changing progressive jackpot, exploring the depths of our live dealer studio, or spinning classic slot reels for fun, Skol Casino delivers a complete gambling experience tailored specifically for the Canadian market.<\/p>\n\n<h3>Slot Games — Canada's Favourite Casino Entertainment<\/h3>\n<p>Our slot collection is the largest section of our gaming lobby, featuring over 1,800 licensed slot titles from premium developers. Canadian players can choose from classic 3-reel fruit machines, modern 5-reel video slots packed with bonus features, Megaways engines delivering up to 117,649 ways to win, and cluster pays mechanics for non-stop excitement. Looking for the best RTP slots available in Canada? Our platform features top-performing titles with returns above 96%, including Book of Dead (NetEnt, RTP 96.21%), Gates of Olympus (Pragmatic Play, RTP 96.50%), Sweet Bonanza (Pragmatic Play, RTP 96.48%), Gonzo's Quest (NetEnt, RTP 96.00%), and Starburst (NetEnt, RTP 96.09%).<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Classic Slots:<\/strong> Traditional 3-reel and 5-reel games with simple mechanics, including Wild symbols and Scatter bonuses. Minimum bets starting from C$0.10 per spin, ideal for Canadian players on any budget.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Video Slots:<\/strong> Feature-rich 5-reel titles with Free Spins rounds, expanding Wilds, multipliers up to 5,000x, and interactive bonus games. Providers include NetEnt, Microgaming, Play'n GO, and Yggdrasil.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Megaways Slots:<\/strong> Dynamic reels from Big Time Gaming and licensed developers delivering up to 117,649 ways to win. Popular titles include Bonanza Megaways (RTP 96.00%) and Extra Chilli Megaways (RTP 96.20%).<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Progressive Jackpot Slots:<\/strong> Network jackpots accumulating across thousands of players, including Mega Moolah (Microgaming) with jackpots frequently exceeding C$5,000,000 and Divine Fortune (NetEnt) with local and must-drop prizes.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Branded Slots:<\/strong> Licensed titles based on popular franchises and entertainment properties, offering a unique narrative gaming experience for Canadian enthusiasts seeking familiar themes and characters.<\/li>\n<\/ul>\n\n<h3>Table Games — Strategy and Skill for Canadian Players<\/h3>\n<p>Our table game selection offers Canadian players dozens of certified variants of the most beloved casino classics. We carry multiple versions of blackjack, roulette, baccarat, and poker, each developed and certified by licensed providers including Microgaming, Playtech, and NetEnt. Strategy-minded Canadian players will find everything from European Roulette (RTP 97.3%) and French Roulette with La Partage (RTP 98.65%) to Multihand Blackjack (RTP 99.5%) and Casino Hold'em Poker (RTP 97.84%). Every game on our platform undergoes independent RNG testing to ensure completely fair outcomes for all players in Canada.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Blackjack Variants:<\/strong> Classic Blackjack, Multihand Blackjack (up to 5 hands), Atlantic City Blackjack, Double Exposure Blackjack, and Blackjack Switch. RTP ranges from 99.28% to 99.65% depending on variant and strategy.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Roulette Collection:<\/strong> European Roulette (RTP 97.3%), French Roulette (RTP 98.65%), American Roulette (RTP 94.74%), Mini Roulette, and Multi-Wheel Roulette for simultaneous betting on multiple wheels.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Baccarat Options:<\/strong> Standard Baccarat (RTP 98.94%), Mini Baccarat, Speed Baccarat, and No Commission Baccarat — all available in both standard table formats and as demo practice versions for new Canadian players.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Video Poker:<\/strong> Jacks or Better (RTP up to 99.54%), Deuces Wild, Joker Poker, Aces & Faces, and Double Double Bonus Poker. Single-hand and multihand variants available with CAD denominations.<\/li>\n<\/ul>\n\n<h3>What Makes Our Live Casino Different for Canadian Players?<\/h3>\n<p>Our live dealer casino section streams in real-time from professional studios powered exclusively by Evolution Gaming and Pragmatic Play Live — two of the most prestigious live casino providers in the industry. Canadian players gain instant access to over 100 live dealer tables broadcasting in HD and 4K quality, 24 hours a day, 7 days a week. Our live casino brings the authentic atmosphere of a premium gambling establishment directly to your screen, with professional English-speaking dealers, multi-camera angles, and interactive chat functionality. Furthermore, all live tables accept CAD bets, eliminating currency conversion concerns for our Canadian members.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Live Roulette:<\/strong> European Roulette Live, Immersive Roulette with super slow-motion replay, Lightning Roulette with random multipliers up to 500x per number, Speed Roulette for fast-paced rounds, and Auto Roulette for continuous automated play.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Live Blackjack:<\/strong> Classic Live Blackjack with up to 7 player seats, Infinite Blackjack for unlimited simultaneous players, Lightning Blackjack with random multipliers, and Speed Blackjack for those who want fast action from anywhere in Canada.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Live Baccarat:<\/strong> Standard Live Baccarat, Speed Baccarat completing each round in just 27 seconds, Baccarat Squeeze with dramatic card reveal animations, and No Commission Baccarat tables.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Live Game Shows:<\/strong> Crazy Time (bonus wheel with multipliers up to 20,000x), Monopoly Live combining the classic board game with live wheel action, Mega Ball bingo-lottery hybrid, and Dream Catcher money wheel — all bringing entertainment beyond traditional casino formats.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Live Poker:<\/strong> Three Card Poker, Caribbean Stud Poker with a progressive jackpot pool, Casino Hold'em, and Texas Hold'em Bonus Poker — all hosted by professional dealers and available in CAD for Canadian players.<\/li>\n<\/ul>\n\n<h3>Slot RTP Comparison at Skol Casino<\/h3>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-size: 14px; font-family: sans-serif; color: #ffffff;\">\n  <thead>\n    <tr style=\"background-color: #9bb82e;\">\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">Game<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">Provider<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">RTP<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr style=\"background-color: #1c3b42;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Gates of Olympus<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">Pragmatic Play<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">96.50%<\/td>\n    <\/tr>\n    <tr style=\"background-color: #234952;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Sweet Bonanza<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">Pragmatic Play<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">96.48%<\/td>\n    <\/tr>\n    <tr style=\"background-color: #1c3b42;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Book of Dead<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">Play'n GO<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">96.21%<\/td>\n    <\/tr>\n    <tr style=\"background-color: #234952;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Starburst<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">NetEnt<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">96.09%<\/td>\n    <\/tr>\n    <tr style=\"background-color: #1c3b42;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Gonzo's Quest<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">NetEnt<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">96.00%<\/td>\n    <\/tr>\n    <tr style=\"background-color: #234952;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Mega Moolah<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">Microgaming<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">88.12%<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n<h3>Mobile Gaming Experience for Canadian Players<\/h3>\n<p>We have fully optimised our platform for mobile play, ensuring Canadian players enjoy a seamless gaming experience on any smartphone or tablet. Our mobile casino runs on HTML5 technology, meaning there is no download required — simply open your favourite browser on iOS or Android and instantly access our complete library of 2,500+ games. The mobile interface mirrors the desktop experience with responsive design adapting perfectly to any screen size, from 320px phones to large tablets. Navigation is intuitive and touch-optimised, with fast load speeds even on 4G mobile connections across Canada.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Full Game Access on Mobile:<\/strong> All 2,500+ slots, table games, live dealer tables, and jackpot games are available on mobile devices without any restrictions or reduced functionality for Canadian players.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Zero Download Required:<\/strong> Our HTML5 platform works instantly in any modern browser including Safari on iPhone, Chrome on Android, and Firefox — no app installation needed, saving Canadian players time and device storage.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Mobile Deposits & Withdrawals:<\/strong> All CAD payment methods including Visa, Mastercard, Skrill, Neteller, and Trustly work seamlessly on mobile, enabling Canadian players to manage their bankroll on the go.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Live Casino on Mobile:<\/strong> Our Evolution Gaming and Pragmatic Play Live tables stream in HD quality even on mobile connections, with touch-friendly betting interfaces designed for Canadian players on the move.<\/li>\n<\/ul>\n\n<h3>Responsible Gambling Tools for Canadian Players<\/h3>\n<p>We are firmly committed to promoting responsible gaming practices among our Canadian player community. Our platform provides a comprehensive suite of player protection tools designed to keep gambling enjoyable and within healthy limits. Canadian players can set daily, weekly, or monthly deposit limits directly from their account dashboard, with changes taking effect immediately. Additionally, we offer session time reminders, cooling-off periods from 24 hours up to 6 weeks, and a full self-exclusion option for those requiring a longer break. Our responsible gambling framework meets and exceeds all requirements set by Curaçao eGaming regulations, and we partner with Canadian responsible gambling organisations including ConnexOntario and the Responsible Gambling Council to provide external support resources.<\/p>\n"
+                    }
+                },
+                "softwareProviders": {
+                    "title": "Software Providers"
+                },
+                "custom_2": {
+                    "customHtml_2": {
+                        "title": "Banking & Bonuses for Canadian Players",
+                        "description": "<h2>Banking & Bonuses for Canadian Players<\/h2>\n\n<p>At Skol Casino, we have designed our entire financial infrastructure with Canadian players in mind. All transactions on our platform are processed in CAD — Canadian dollars — eliminating any currency conversion fees that often plague players at international casinos. We support a comprehensive range of deposit and withdrawal methods popular among Canadian players, including Visa, Mastercard, Skrill, Neteller, Trustly, PayPal, and bank wire transfers. Every single transaction is protected by SSL 256-bit encryption technology, ensuring that your financial data remains completely secure at every stage. Our minimum deposit is just C$10, making Skol Casino accessible to all Canadian players regardless of budget — from casual weekend players to high-stakes enthusiasts.<\/p>\n\n<h3>How to Deposit at Skol Casino as a Canadian Player?<\/h3>\n<p>Depositing funds at our casino is a simple, fast process that takes less than 2 minutes. Canadian players can choose from multiple payment options, all supporting CAD currency without conversion fees. Simply log into your account, navigate to the Cashier section, select your preferred payment method, enter the amount (minimum C$10), and confirm. Deposits via Visa, Mastercard, Skrill, Neteller, Trustly, and PayPal are processed instantly, meaning your funds appear in your casino balance immediately and you can start playing right away. Furthermore, your first deposit activates the first part of our generous five-part welcome bonus package — so making that initial deposit is especially rewarding for new Canadian members.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Visa & Mastercard:<\/strong> The most popular choice among Canadian players. Instant deposits with no fees. Withdrawals processed within 1-3 business days back to your Canadian debit or credit card.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Skrill & Neteller:<\/strong> Premier e-wallet solutions favoured by Canadian online casino players. Both offer instant deposits and withdrawals processed within 24 hours, with no fees charged by our casino.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Trustly:<\/strong> Secure online banking solution allowing Canadian players to deposit directly from their bank account without a card or e-wallet. Instant deposits and withdrawals via Trustly with zero fees.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>PayPal:<\/strong> Canada's most trusted digital wallet. Instant deposits and fast withdrawals within 12-24 hours, with the added security of PayPal's buyer protection framework.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Bank Wire Transfer:<\/strong> Suitable for high-value Canadian transactions with limits up to C$20,000 per transfer. Processing time is 3-5 business days, ideal for players preferring traditional banking channels.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Cryptocurrency:<\/strong> Bitcoin (BTC) and Ethereum (ETH) accepted for Canadian players seeking maximum privacy and speed. Crypto deposits are instant and withdrawals process within 24 hours.<\/li>\n<\/ul>\n\n<h3>Payment Methods Overview for Canada<\/h3>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-size: 14px; font-family: sans-serif; color: #ffffff;\">\n  <thead>\n    <tr style=\"background-color: #9bb82e;\">\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">Method<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">Deposit<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">Withdrawal<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr style=\"background-color: #1c3b42;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Visa\/Mastercard<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">Instant<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">1-3 days<\/td>\n    <\/tr>\n    <tr style=\"background-color: #234952;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Skrill<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">Instant<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">Within 24h<\/td>\n    <\/tr>\n    <tr style=\"background-color: #1c3b42;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Neteller<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">Instant<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">Within 24h<\/td>\n    <\/tr>\n    <tr style=\"background-color: #234952;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Trustly<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">Instant<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">Instant<\/td>\n    <\/tr>\n    <tr style=\"background-color: #1c3b42;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>PayPal<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">Instant<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">12-24h<\/td>\n    <\/tr>\n    <tr style=\"background-color: #234952;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Bank Transfer<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">1-2 days<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">3-5 days<\/td>\n    <\/tr>\n    <tr style=\"background-color: #1c3b42;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Crypto (BTC\/ETH)<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">Instant<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">Within 24h<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n\n<h3>Skol Casino Welcome Bonus — C$1300 + 250 Free Spins for Canadians<\/h3>\n<p>Our welcome bonus package is one of the most generous available to Canadian online casino players, spreading rewards across your first five deposits and totalling C$1,300 in bonus cash plus 250 free spins. This multi-part welcome offer is designed to maximise your bankroll from day one, giving you significantly more playing time and more opportunities to win real money at our casino. The free spins are awarded on Starburst — one of the most popular slots among Canadian players — and remain valid for 10 days after issue. All bonus funds carry a 35x wagering requirement, which must be completed within 30 days of the bonus being credited to your account.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>1st Deposit Bonus:<\/strong> 100% match up to C$300 + 100 free spins on Starburst. Make a minimum deposit of C$10 to activate this offer and double your starting bankroll immediately.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>2nd Deposit Bonus:<\/strong> 75% match bonus up to C$300. Your second deposit is rewarded with a 75% top-up, giving Canadian players more funds to explore our 2,500+ game library.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>3rd Deposit Bonus:<\/strong> 50% match bonus up to C$300. Continuing the five-part welcome package, your third deposit earns a 50% bonus — another generous boost for your Canadian casino balance.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>4th Deposit Bonus:<\/strong> 25% match bonus up to C$300. The fourth part of the welcome series keeps rewarding Canadian players, offering an additional 25% on top of your deposit.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>5th Deposit Bonus:<\/strong> 100% match up to C$100. The final instalment of our welcome package brings Canadian players back to a 100% match, capping a total welcome package worth up to C$1,300 in bonus cash.<\/li>\n<\/ul>\n\n<h3>Weekly Reload Bonuses and Ongoing Promotions<\/h3>\n<p>Beyond the welcome package, we reward loyal Canadian players through a rich calendar of weekly promotions, reload bonuses, and seasonal offers. Our promotions team regularly crafts exclusive deals tailored to the Canadian market, including weekend reload bonuses, free spin drops on newly released slots, cashback promotions returning a percentage of losses directly to your account, and special event bonuses tied to major Canadian occasions. Returning players who make regular deposits can access reload offers throughout the week, keeping their bankroll topped up and their gaming sessions longer. All promotional terms are clearly displayed in our Promotions section, with transparent wagering requirements and validity periods.<\/p>\n\n<h3>How Long Do Withdrawals Take at Skol Casino Canada?<\/h3>\n<p>Withdrawals at our casino are processed quickly and efficiently for Canadian players. E-wallet withdrawals via Skrill, Neteller, Trustly, and PayPal are typically completed within 24 hours of request submission — often much faster. Visa and Mastercard withdrawals take 1-3 business days depending on your Canadian bank's processing times. Bank wire transfers take 3-5 business days and are ideal for larger withdrawal amounts. The minimum withdrawal amount is C$10 with no fees charged by our casino for any payment method. To ensure smooth withdrawals, Canadian players are encouraged to complete account verification (KYC) by submitting a valid government-issued ID and proof of address before making their first withdrawal request.<\/p>\n\n<h3>Account Security and Player Verification for Canadian Members<\/h3>\n<p>We take the security of our Canadian players' accounts and funds extremely seriously. Our platform employs SSL 256-bit encryption across all pages and transactions, the same standard used by major Canadian banks. Two-factor authentication (2FA) is available for all accounts, adding an extra layer of protection against unauthorised access. Our KYC (Know Your Customer) verification process requires Canadian players to submit a government-issued photo ID (driver's licence or passport) and a proof of address (utility bill or bank statement dated within 90 days) to unlock full withdrawal capabilities. This process protects against fraud and money laundering while ensuring that all players on our platform are of legal gambling age in their Canadian province. We store all personal data in compliance with privacy regulations applicable to Canadian online gaming operations.<\/p>\n"
+                    }
+                },
+                "faq": {
+                    "title": "Frequently Asked Questions",
+                    "items": [
+                        {
+                            "title": "Is Skol Casino licensed and safe for Canadian players?",
+                            "answer": "Yes, Skol Casino operates under a valid Curaçao eGaming license with full eCOGRA fair play certification. We use SSL 256-bit encryption to protect all Canadian player data and transactions. All games are RNG-tested by independent auditors ensuring completely fair outcomes for every Canadian member.\n"
+                        },
+                        {
+                            "title": "How do I claim the C$1300 welcome bonus at Skol Casino?",
+                            "answer": "Register your account, then make your first deposit of minimum C$10 via Visa, Mastercard, Skrill, or Neteller. Your 100% bonus up to C$300 plus 100 free spins on Starburst credits automatically within 5 minutes. Wagering requirement is 35x within 30 days. Free spins are valid for 10 days.\n"
+                        },
+                        {
+                            "title": "What payment methods are available for Canadian players?",
+                            "answer": "We accept Visa, Mastercard, Skrill, Neteller, Trustly, PayPal, Bank Wire, and Crypto (BTC, ETH) for Canadian players. All deposits are instant with a minimum of C$10. No fees are charged on any payment method. Withdrawals process within 24 hours for e-wallets and 1-3 days for cards.\n"
+                        },
+                        {
+                            "title": "How long do withdrawals take at Skol Casino Canada?",
+                            "answer": "E-wallet withdrawals via Skrill, Neteller, Trustly, and PayPal are processed within 24 hours. Visa and Mastercard withdrawals take 1-3 business days to reach your Canadian account. Bank wire transfers take 3-5 business days. The minimum withdrawal is C$10 with zero fees on all methods.\n"
+                        },
+                        {
+                            "title": "Can I play live dealer games on my mobile device?",
+                            "answer": "Yes, all live dealer tables powered by Evolution Gaming and Pragmatic Play Live are fully available on mobile devices. Our HTML5 platform works instantly in any browser on iOS or Android — no download needed. Canadian players access Live Roulette, Blackjack, Baccarat, and Game Shows on any device.\n"
+                        },
+                        {
+                            "title": "What documents do I need to verify my casino account?",
+                            "answer": "To verify your Skol Casino account, submit a valid government-issued photo ID (passport or Canadian driver's licence) and proof of address (utility bill or bank statement within 90 days). Verification unlocks full withdrawal access. Our team processes KYC documents within 24 hours after submission.\n"
+                        },
+                        {
+                            "title": "How many games are available at Skol Casino for Canadians?",
+                            "answer": "We offer over 2,500 certified games for Canadian players, including 1,800+ slots, dozens of table game variants, and 100+ live dealer tables. Games come from 40+ providers including Evolution Gaming, Pragmatic Play, NetEnt, and Microgaming — all RNG-tested and independently certified for fair play.\n"
+                        },
+                        {
+                            "title": "Does Skol Casino offer responsible gambling tools in Canada?",
+                            "answer": "Yes, we provide full responsible gambling tools for Canadian players including deposit limits (daily, weekly, monthly), session time reminders, cooling-off periods from 24 hours to 6 weeks, and full self-exclusion. We also partner with ConnexOntario and the Responsible Gambling Council for support.\n"
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}
